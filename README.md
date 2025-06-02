@@ -28,7 +28,7 @@
 ## ✍️ I Build, Break & Learn Publicly
 
 📌 I believe in **"Learn → Build → Share"**  
-📚 Follow my journey as I move from college to cloud engineer  
+📚 Follow my journey as I move from college to Cloud Developer  
 🔗 Connect with me on [LinkedIn](#) or check out my [Cloud projects](#)
 
 ---
