@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Rahul!
 
 🎓 BCA Graduate from **SGM College, Karad**  
-☁️ Currently learning **AWS Cloud Services** and **DevOps tools**  
-💻 Passionate about infrastructure, automation, and continuous learning  
+☁️ Currently learning **AWS Cloud Services** and **DevOps tools** in the Fortune Cloud Technology
+💻 Always exploring & learning about AWS, Linux, automation tools, and cloud best practices
 
 ---
 
 ## 🚀 My Learning Journey
 
-- 🌱 Learning: AWS, Docker, Linux, Git, GitHub Actions, Terraform
-- 🧪 Building hands-on projects and labs to learn by doing
+- 🌱 Learning: AWS, Linux, DevOps, Git, Github
+- 🧪 Building hands-on projects on Could Technology 
 - 📚 Preparing for AWS Certification
-- 📌 Goal: Become **Cloud Certified & Job-Ready**
+- 📌 Goal: Become **Cloud Developer & AWS Cloud Certified**
 
 ---
 
