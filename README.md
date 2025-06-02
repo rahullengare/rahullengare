@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Rahul!
 
-🎓 BCA Graduate from **SGM College, Karad**  
-☁️ Currently learning **AWS Cloud Services** and **DevOps tools** in the Fortune Cloud Technology
-💻 Always exploring & learning about AWS, Linux, automation tools, and cloud best practices
+🎓 Bachelor of Computer Applications **(BCA)** graduate from **SGM College, Karad**
+📚 Currently training in AWS Cloud Services and DevOps tools at **Fortune Cloud Technology**
+💻 Passionate about AWS, Linux, automation tools, and cloud best practices — always exploring and learning!
 
 ---
-
 ## 🚀 My Learning Journey
 
-- 🌱 Learning: AWS, Linux, DevOps, Git, Github
+- 🌱 Learning: AWS, Linux, DevOps, Git, VScode
 - 🧪 Building hands-on projects on Could Technology 
 - 📚 Preparing for AWS Certification
 - 📌 Goal: Become **Cloud Developer & AWS Cloud Certified**
@@ -26,19 +25,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuloncloud&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuloncloud&layout=compact&theme=tokyonight)
-
----
-
 ## ✍️ I Build, Break & Learn Publicly
 
 📌 I believe in **"Learn → Build → Share"**  
 📚 Follow my journey as I move from college to cloud engineer  
-🔗 Connect with me on [LinkedIn](#) or check out my [labs & projects](#)
+🔗 Connect with me on [LinkedIn](#) or check out my [Cloud projects](#)
 
 ---
 
