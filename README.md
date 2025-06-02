@@ -33,4 +33,4 @@
 
 ---
 
-> “The best way to learn is by doing. The second best is by teaching.”
+> “Learn more today, earn more tomorrow.”
