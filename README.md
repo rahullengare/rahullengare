@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Rahul!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
+
 
 🎓 Bachelor of Computer Applications **(BCA)** graduate from SGM College, Karad  
 📚 Currently training in AWS Cloud Services and DevOps tools at Fortune Cloud Technology  
