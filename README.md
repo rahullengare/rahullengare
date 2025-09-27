@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Rahul!
 
 
-🎓 Master of Computer Applications **(MCA)** Pursuing at BV(DU), IMED, Pune
-📚 Currently training in AWS Cloud Services and DevOps tools at Fortune Cloud Technology  
-🎓 Bachelor of Computer Applications **(BCA)** graduate from SGM College, Karad  
+🎓 Master of Computer Applications **(MCA)** — Pursuing at BV(DU), IMED, Pune
+
+📚 Currently training in **AWS** Cloud Services and **DevOps** tools at Fortune Cloud Technology
+
+🎓 Bachelor of Computer Applications **(BCA)** — Graduate from SGM College, Karad
+
 💻 Passionate about AWS, Linux, automation tools, and cloud best practices — always exploring and learning!  
 
 ---
