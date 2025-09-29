@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul!
+  # 👋 Hi, I'm Rahul!
 
 
 🎓 Master of Computer Applications **(MCA)** — Pursuing at BV(DU), IMED, Pune
@@ -35,7 +35,7 @@
 
 📌 I believe in **"Learn → Build → Share"**  
 📚 Follow my journey as I move from college to Cloud Developer  
-🔗 Connect with me on [LinkedIn](#) or check out my [Cloud projects](#)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-lengare-156134231/) or check out my [Cloud projects](https://rahullengare.github.io/portfolio/)
 
 ---
 
