@@ -3,7 +3,7 @@
 
 🎓 Master of Computer Applications **(MCA)** — Pursuing at BV(DU), IMED, Pune
 
-📚 Currently training in **AWS** Cloud Services and **DevOps** tools at Fortune Cloud Technology
+📚 **AWS** Cloud Services and Currently training in **DevOps** tools at Fortune Cloud Technology
 
 🎓 Bachelor of Computer Applications **(BCA)** — Graduate from SGM College, Karad
 
