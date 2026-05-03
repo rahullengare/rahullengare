@@ -3,30 +3,52 @@
 
 🎓 Master of Computer Applications **(MCA)** — Pursuing at BV(DU), IMED, Pune
 
-📚 **AWS** Cloud Services and Currently training in **DevOps** tools at Fortune Cloud Technology
+📚 **AWS** Cloud Services Course — Completed (Fortune Cloud Technology Pune)
+
+📚 **DevOps & Infrastructure** — Currently deep-diving into Docker and Kubernetes. 
 
 🎓 Bachelor of Computer Applications **(BCA)** — Graduate from SGM College, Karad
 
-💻 Passionate about AWS, Linux, automation tools, and cloud best practices — always exploring and learning!  
+💻 Passionate about Cloud Engineering, Containerization, and Automation — building scalable systems and mastering cloud best practices!
 
----
-## 🚀 My Learning Journey
-
-- 🌱 Learning: AWS, Linux, DevOps, Git, VScode
-- 🧪 Building hands-on projects on Could Technology 
-- 📚 Preparing for AWS Certification
-- 📌 Goal: Become **Cloud Developer & AWS Cloud Certified**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Here is your updated tech stack, organized by category to make it clear and professional for recruiters and your portfolio.
+
+**☁️ Cloud Infrastructure**
+
+Core Services: Skilled in EC2, VPC, S3, IAM, and Route 53.
+
+IaC: Automating secure infrastructure using Terraform.
+
+
+**🐳 Containerization & Orchestration**
+
+Status: Currently training in Docker container management and Kubernetes orchestration.
+
+
+**⚙️ DevOps & Automation**
+
+Automation: Experienced in Ansible for multi-tier architecture and Jenkins for CI/CD.
+
+Control: Utilizing Git and GitHub Actions for version control and workflow automation.
+
+
+**💻 Development & OS**
+
+Environments: Proficient in Linux (Bash) administration and technical operations.
+
+Languages: Working knowledge of Python scripting, HTML/CSS, and SQL.
+
+
+**🎓 Educational Background**
+
+Master of Computer Applications (MCA): Pursuing at IMED, Pune (Expected 2027).
+
+Bachelor of Computer Applications (BCA): Completed at SGM College, Karad with an A+ Grade.
 
 
 ---
@@ -34,10 +56,19 @@
 ## ✍️ I Build, Break & Learn Publicly
 
 📌 I believe in **"Learn → Build → Share"**  
-📚 Follow my journey as I move from college to Cloud Developer  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-lengare-156134231/) or check out my [Cloud projects](https://rahullengare.github.io/portfolio/)
+📚 Follow my journey as I move from College Studuent to Cloud Engineer   
+
 
 ---
+## 🔗Let's Connect!
+I’m always open to collaborating on open-source projects or discussing the latest in DevOps.
 
-> “Learn more today, earn more tomorrow.”
+Connect with me on <a href="https://www.linkedin.com/in/rahul-lengare-156134231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Check out my <a href="https://github.com/rahullengare"><img src="https://img.shields.io/badge/Cloud_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+Check out my work on <a href="https://rahullengare.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6E3CBC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  
+---
+**“Efficiency is doing things right. Automation is doing the right things automatically.”**
 
