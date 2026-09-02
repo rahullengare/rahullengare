@@ -1,74 +1,64 @@
-  # 👋 Hi, I'm Rahul!
+# Rahul Lengare
 
-
-🎓 Master of Computer Applications **(MCA)** — Pursuing at BV(DU), IMED, Pune
-
-📚 **AWS** Cloud Services Course — Completed (Fortune Cloud Technology Pune)
-
-📚 **DevOps & Infrastructure** — Currently deep-diving into Docker and Kubernetes. 
-
-🎓 Bachelor of Computer Applications **(BCA)** — Graduate from SGM College, Karad
-
-💻 Passionate about Cloud Engineering, Containerization, and Automation — building scalable systems and mastering cloud best practices!
-
+Pune, India | +91 8668503391 | [lengarerahul5@gmail.com](mailto:lengarerahul5@gmail.com)  
+[Portfolio](https://rahullengare.cloud) | [GitHub Profile](https://github.com/rahullengare) | [LinkedIn Profile](https://www.linkedin.com/in/mr-rahul-lengare)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Summary
 
-Here is your updated tech stack, organized by category to make it clear and professional for recruiters and your portfolio.
-
-**☁️ Cloud Infrastructure**
-
-Core Services: Skilled in EC2, VPC, S3, IAM, and Route 53.
-
-IaC: Automating secure infrastructure using Terraform.
-
-
-**🐳 Containerization & Orchestration**
-
-Status: Currently training in Docker container management and Kubernetes orchestration.
-
-
-**⚙️ DevOps & Automation**
-
-Automation: Experienced in Ansible for multi-tier architecture and Jenkins for CI/CD.
-
-Control: Utilizing Git and GitHub Actions for version control and workflow automation.
-
-
-**💻 Development & OS**
-
-Environments: Proficient in Linux (Bash) administration and technical operations.
-
-Languages: Working knowledge of Python scripting, HTML/CSS, and SQL.
-
-
-**🎓 Educational Background**
-
-Master of Computer Applications (MCA): Pursuing at IMED, Pune (Expected 2027).
-
-Bachelor of Computer Applications (BCA): Completed at SGM College, Karad with an A+ Grade.
-
+MCA candidate with hands-on experience designing and deploying cloud-native infrastructure on AWS. Proficient in containerization with Docker and Kubernetes, CI/CD pipeline automation via Jenkins, and Infrastructure as Code using Terraform and Ansible.
 
 ---
 
-## ✍️ I Build, Break & Learn Publicly
+## Technical Skills
 
-📌 I believe in **"Learn → Build → Share"**  
-📚 Follow my journey as I move from College Studuent to Cloud Engineer   
-
+* **Cloud & Tools:** AWS (IAM, EC2, ALB, Route 53, Lambda), Terraform, Ansible
+* **DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Git & GitHub
+* **Backend & DB:** Node.js, Express, MongoDB Atlas, DynamoDB, MariaDB, Linux
 
 ---
-## 🔗Let's Connect!
-I’m always open to collaborating on open-source projects or discussing the latest in DevOps.
 
-Connect with me on <a href="https://www.linkedin.com/in/rahul-lengare-156134231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Projects
 
-Check out my <a href="https://github.com/rahullengare"><img src="https://img.shields.io/badge/Cloud_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+### Full-Stack To-Do App on Kubernetes
+* **Tech Stack:** Docker, Kubernetes, Node.js, Express, MongoDB Atlas
+* Containerized a full-stack Node.js/MongoDB application with Docker and orchestrated deployment on Kubernetes with self-healing and rolling updates.
 
-Check out my work on <a href="https://rahullengare.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6E3CBC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  
+### Blue-Green Deployment Pipeline with Jenkins & AWS ALB
+* **Tech Stack:** Jenkins, AWS EC2, ALB, Bash, Git
+* Built an automated Jenkins CI/CD pipeline using AWS ALB target groups to enable zero-downtime releases and instant rollback.
+
+### Multi-Tier Architecture Automation with Ansible
+* **Tech Stack:** Ansible, AWS EC2, Nginx, PHP, MariaDB, Linux
+* Automated end-to-end provisioning of a two-tier web stack (Nginx, PHP, and MariaDB) across distributed AWS EC2 instances using Ansible.
+
+### Secure AWS VPC Infrastructure with Terraform
+* **Tech Stack:** Terraform, AWS VPC, EC2, Security Groups, IaC
+* Provisioned an isolated, multi-subnet AWS VPC with custom route tables, an Internet Gateway, and strict Security Groups using Terraform.
+
+### Dockerized Node.js API with AWS DynamoDB
+* **Tech Stack:** Node.js, Docker, AWS EC2, DynamoDB, AWS IAM
+* Containerized and deployed a Node.js REST API on AWS EC2 with secure DynamoDB access configured via AWS IAM roles.
+
 ---
-**“Efficiency is doing things right. Automation is doing the right things automatically.”**
 
+## Education
+
+* **MCA, Computer Applications** – Bharathi Vidyapeeth, Pune *(Expected March 2027)*
+* **BCA, Computer Applications** – SGM College Karad *(Expected March 2025)*
+
+---
+
+## Certifications
+
+* AWS Cloud Solutions Certification – Fortune Cloud Technologies, Pune
+* DevOps Certification – Fortune Cloud Technologies, Pune
+* AI & Machine Learning Foundations – Magic Bus India
+* Cloud Computing Fundamentals – IBM
+
+---
+
+## Languages
+
+* English, Marathi, Hindi
