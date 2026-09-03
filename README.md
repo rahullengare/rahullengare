@@ -13,7 +13,7 @@ MCA candidate with hands-on experience designing and deploying cloud-native infr
 
 ## Technical Skills
 
-* **Cloud & Tools:** AWS (IAM, EC2, ALB, Route 53, Lambda), Terraform, Ansible
+* **Cloud & Tools:** AWS (IAM, EC2, ALB, Route 53, Lambda), Terraform, Ansible, Render for Deployment
 * **DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Git & GitHub
 * **Backend & DB:** Node.js, Express, MongoDB Atlas, DynamoDB, MariaDB, Linux
 
